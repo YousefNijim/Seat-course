@@ -1,0 +1,18 @@
+<svg id="over" xmlns="http://www.w3.org/2000/svg" width="58" height="52" viewBox="0 0 58 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #95572b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rechteck_3143" data-name="Rechteck 3143" class="cls-1" width="58" height="52"/>
+  <circle class="cls-2" cx="28.5" cy="16.5" r="2.5"/>
+  <rect id="Rechteck_898" data-name="Rechteck 898" class="cls-2" x="27" y="23" width="4" height="12"/>
+  <rect id="Rechteck_898_Kopie" data-name="Rechteck 898 Kopie" class="cls-2" x="25" y="23" width="6" height="4"/>
+  <rect id="Rechteck_898_Kopie_2" data-name="Rechteck 898 Kopie 2" class="cls-2" x="24" y="34" width="9" height="4"/>
+</svg>

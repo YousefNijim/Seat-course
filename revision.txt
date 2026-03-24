@@ -1,0 +1,15 @@
+user: adminseat2
+time: 2025.03.25 10:04:53
+server:https://seat.evolution3.de/
+project: seat_p2058
+language: en-GB
+type: wbt_html5_common
+storage_id: 111
+course_id: 100603
+selected id: 100603
+
+
+EVOLUTION player build data : 
+.3.15.2.r23428 vw_framework
+26/11/2024 11:03:42
+CBTL

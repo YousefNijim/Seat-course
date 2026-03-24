@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XML Spy v2.5 NT  - http://www.xmlspy.com -->
+<classes>
+	<ui>
+		<page>
+			<properties>
+				<title value="1"/>
+				<caption value="1"/>
+			</properties>
+		</page>
+		<htmlText>
+			<properties>
+				<htmlText value="1"/>
+<text value="1"/>
+			</properties>
+		</htmlText>
+		<sound>
+			<properties>
+				<soundText value="1"/>
+			</properties>
+		</sound>
+		<text>
+			<properties>
+				<text value="1"/>
+			</properties>
+		</text>
+	</ui>
+</classes>

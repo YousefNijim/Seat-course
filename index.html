@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>en</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<body style="background-color:white">
+    <iframe style="border: 0; width: 0"></iframe>
+<script type="text/javascript">
+    (function () {
+        var iframe = document.getElementsByTagName("iframe")[0];
+        iframe.id = "scalableContainer";
+        iframe.contentDocument.write(
+                '<!DOCTYPE HTML>' +
+                '<html lang="en" manifest="manifest.appcache">' +
+                '<head>' +
+                '<meta charset="UTF-8" />' +
+                '<meta name="viewport" content="width=device-width, user-scalable=no" />' +
+                '<meta name="gwt:property" content="baseUrl=Cbtl/" />' +
+                '<link type="text/css" rel="stylesheet" href="evolution.css" />' +
+                '<link type="text/css" rel="stylesheet" href="fonts.css" />' +
+                '<script type="text/javascript">' +
+                '    var cbtlvars = {' +
+                '            mode: "JavaScriptLoader",' +
+                '            projectLanguage: "en-GB",' +
+                '            uniqueIdentifier: \'8be0de16a20ac9b70eeae2abe9b0af58\',' +
+                '			 adjustOnResize: \'1\',' +
+                '            minScale: \'50%\',' +
+                '            maxScale: \'150%\',' +
+                '            adjust: \'auto\'' +
+                '        };' +
+                '    <\/script>' +
+                '</head>' +
+                '<body style="text-align:center; background-color:white; overflow:hidden;">' +
+                '<script type="text/javascript" language="javascript" src="Cbtl/Cbtl.nocache.js"><\/script>' +
+                '<div id="stage" style="width:1193px; margin:auto;" />' +
+                '</body>' +
+                '</html>'
+        );
+        iframe.contentDocument.close();
+    })();
+</script>
+</body>
+</html>

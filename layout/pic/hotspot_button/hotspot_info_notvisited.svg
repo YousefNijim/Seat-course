@@ -1,0 +1,12 @@
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="Gruppe_1" data-name="Gruppe 1">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="19" cy="19" r="19" transform="translate(1 1)" fill="#f8f8f8"/>
+      <path id="Pfad_22" data-name="Pfad 22" d="M20,2A18,18,0,1,1,2,20,18,18,0,0,1,20,2m0-2A20,20,0,1,0,40,20,20,20,0,0,0,20,0Z" fill="#95572b"/>
+    </g>
+    <g id="Gruppe_28" data-name="Gruppe 28" transform="translate(0 0.001)">
+      <circle id="Ellipse_5_Kopie_2" data-name="Ellipse 5 Kopie 2" cx="3" cy="3" r="3" transform="translate(16.969 8.969)" fill="none" stroke="#95572b" stroke-width="1"/>
+      <path id="Rechteck_898_Kopie_4" data-name="Rechteck 898 Kopie 4" d="M789,269.875S790.579,268,792.117,268c1.46,0,2.883,1.875,2.883,1.875V283h-6Z" transform="translate(-772.031 -251.031)" fill="none" stroke="#95572b" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

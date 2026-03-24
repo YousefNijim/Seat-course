@@ -1,0 +1,26 @@
+<svg id="down" xmlns="http://www.w3.org/2000/svg" width="58" height="59" viewBox="0 0 58 59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9cebd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect id="white_bg" data-name="white bg" class="cls-1" width="58" height="59"/>
+  <path id="Rechteck_1668" data-name="Rechteck 1668" class="cls-2" d="M1151,20h26v3h-26V20Zm0,8h26v3h-26V28Zm0,8h26v3h-26V36Z" transform="translate(-1135)"/>
+  <path id="Form_1379" data-name="Form 1379" class="cls-3" d="M1176,15l-24,29" transform="translate(-1135)"/>
+</svg>

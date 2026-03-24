@@ -1,0 +1,279 @@
+/* VW */
+
+@font-face {
+    font-family: 'SubchapterTitleVW';
+    src: local('Arial');
+}
+
+@font-face {
+    font-family: 'PageTitleVW';
+    src: local('Arial');
+}
+
+
+@font-face {
+    font-family: 'SectionTitleVW';
+    src: local('Arial');
+}
+
+[style*="SectionTitleVW"] {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SimpleTextVW';
+    src: local('Arial');
+}
+
+@font-face {
+    font-family: 'HighlightedTextVW';
+    src: local('Arial');
+}
+
+[style*="HighlightedTextVW"] {
+    font-weight: bold;
+}
+
+/* NBD*/
+@font-face {
+    font-family: 'SubchapterTitleNBD';
+    src: local('SubchapterTitleNBD'),
+    url('fonts/VW/VWHead-Light.otf');
+}
+
+@font-face {
+    font-family: 'PageTitleNBD';
+    src: local('PageTitleNBD'),
+    url('fonts/VW/VWHead-Bold.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SectionTitleNBD';
+    src: local('SectionTitleNBD'),
+    url('fonts/VW/VWHead-Bold.otf');
+    font-weight: bold;
+}
+
+[style*="SectionTitleNBD"] {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SimpleTextNBD';
+    src: local('SimpleTextNBD'),
+    url('fonts/VW/VWText-Regular.otf');
+}
+
+
+@font-face {
+    font-family: 'HighlightedTextNBD';
+    src: local('HighlightedTextNBD'),
+    url('fonts/VW/VWHead-Bold.otf');
+    font-weight: bold;
+}
+
+[style*="HighlightedTextNBD"] {
+    font-weight: bold;
+}
+
+span[style*="SubchapterTitleNBD"] ,
+span[style*="PageTitleNBD"] ,
+span[style*="SectionTitleNBD"] ,
+span[style*="SimpleTextNBD"] ,
+span[style*="HighlightedTextNBD"]
+{
+}
+
+span[style*="SubchapterTitleNBD"] ,
+span[style*="PageTitleNBD"] ,
+span[style*="SectionTitleNBD"] ,
+span[style*="SimpleTextNBD"]
+{
+    vertical-align: text-top;
+}
+
+div[style*="SubchapterTitleNBD"] ,
+div[style*="PageTitleNBD"] ,
+div[style*="SectionTitleNBD"] ,
+div[style*="SimpleTextNBD"] ,
+div[style*="HighlightedTextNBD"]
+{
+}
+
+div[style*="SubchapterTitleNBD"] ,
+div[style*="PageTitleNBD"] ,
+div[style*="SectionTitleNBD"] ,
+div[style*="SimpleTextNBD"]
+{
+    vertical-align: text-top;
+}
+
+
+/* SEAT */
+@font-face {
+    font-family: 'SubchapterTitleSEAT';
+    src: local('SubchapterTitleSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Regular.otf');
+}
+
+@font-face {
+    font-family: 'SubchapterTitleSEAT';
+    src: local('SubchapterTitleSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Bold.otf');
+    font-weight: bold;
+}
+
+[style*="SubchapterTitleSEAT"] {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'PageTitleSEAT';
+    src: local('PageTitleSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Light.otf');
+}
+
+@font-face {
+    font-family: 'SectionTitleSEAT';
+    src: local('SectionTitleSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Regular.otf');
+}
+
+@font-face {
+    font-family: 'SectionTitleSEAT';
+    src: local('SectionTitleSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Bold.otf');
+    font-weight: bold;
+}
+
+[style*="SectionTitleSEAT"] {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SimpleTextSEAT';
+    src: local('SimpleTextSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Regular.otf');
+}
+
+@font-face {
+    font-family: 'SimpleTextSEAT';
+    src: local('SimpleTextSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Bold.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'HighlightedTextSEAT';
+    src: local('HighlightedTextSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Regular.otf');
+}
+
+@font-face {
+    font-family: 'HighlightedTextSEAT';
+    src: local('HighlightedTextSEAT'),
+    url('fonts/SEAT_bcn_font/SeatBcn-Bold.otf');
+    font-weight: bold;
+}
+
+[style*="HighlightedTextSEAT"] {
+    font-weight: bold;
+}
+
+
+/* CUPRA */
+@font-face {
+    font-family: 'SubchapterTitleCUPRA';
+    src: local('SubchapterTitleCUPRA'),
+    url('fonts/CUPRA_font/Cupra-Medium.otf');
+}
+
+@font-face {
+    font-family: 'PageTitleCUPRA';
+    src: local('PageTitleCUPRA'),
+    url('fonts/CUPRA_font/Cupra-Medium.otf');
+}
+
+@font-face {
+    font-family: 'SectionTitleCUPRA';
+    src: local('SectionTitleCUPRA'),
+    url('fonts/CUPRA_font/Cupra-Medium.otf');
+}
+
+@font-face {
+    font-family: 'SimpleTextCUPRA';
+    src: local('SimpleTextCUPRA'),
+    url('fonts/CUPRA_font/Cupra-Regular.otf');
+}
+
+@font-face {
+    font-family: 'HighlightedTextCUPRA';
+    src: local('HighlightedTextCUPRA'),
+    url('fonts/CUPRA_font/Cupra-Medium.otf');
+}
+
+@font-face {
+    font-family: 'Cupra_Light';
+    src: local('Cupra_Light'),
+    url('fonts/CUPRA_font/Cupra-Light.otf');
+}
+
+/* VWAG */
+@font-face {
+    font-family: 'SubchapterTitleVWAG';
+    src: local('SubchapterTitleVWAG'),
+    url('fonts/VWAG_TheSans/VWAGTheSans-Regular.otf');
+}
+
+@font-face {
+    font-family: 'PageTitleVWAG';
+    src: local('PageTitleVWAG'),
+    url('fonts/VWAG_TheSans/VWAGTheSans-Bold.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SectionTitleVWAG';
+    src: local('SectionTitleVWAG'),
+    url('fonts/VWAG_TheSans/VWAGTheSans-Bold.otf');
+    font-weight: bold;
+}
+
+[style*="SectionTitleVWAG"] {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SimpleTextVWAG';
+    src: local('SimpleTextVWAG'),
+    url('fonts/VWAG_TheSans/VWAGTheSans-Regular.otf');
+}
+
+@font-face {
+    font-family: 'HighlightedTextVWAG';
+    src: local('HighlightedTextVWAG'),
+    url('fonts/VWAG_TheSans/VWAGTheSans-Bold.otf');
+    font-weight: bold;
+}
+
+[style*="HighlightedTextVWAG"] {
+    font-weight: bold;
+}
+
+[style*="SubchapterTitleVWAG"] ,
+[style*="PageTitleVWAG"] ,
+[style*="SectionTitleVWAG"] ,
+[style*="SimpleTextVWAG"] ,
+[style*="HighlightedTextVWAG"]
+{
+    line-height: 1;
+}
+
+[style*="SubchapterTitleVWAG"] ,
+[style*="PageTitleVWAG"] ,
+[style*="SectionTitleVWAG"] ,
+[style*="SimpleTextVWAG"]
+{
+    vertical-align: text-top;
+}

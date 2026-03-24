@@ -1,0 +1,16 @@
+<svg id="hotspot_notvisited" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="Gruppe_2" data-name="Gruppe 2">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="19" cy="19" r="19" transform="translate(1 1)" fill="#f8f8f8"/>
+      <path id="Pfad_24" data-name="Pfad 24" d="M20,2A18,18,0,1,1,2,20,18,18,0,0,1,20,2m0-2A20,20,0,1,0,40,20,20,20,0,0,0,20,0Z" fill="#95572b"/>
+    </g>
+    <g id="Gruppe_3" data-name="Gruppe 3">
+      <rect id="Rechteck_5" data-name="Rechteck 5" width="2" height="24" transform="translate(19 8)" fill="#95572b"/>
+      <path id="Pfad_25" data-name="Pfad 25" d="M20,9h0m2-2H18V33h4Z" fill="#95572b"/>
+    </g>
+    <g id="Gruppe_4" data-name="Gruppe 4">
+      <rect id="Rechteck_6" data-name="Rechteck 6" width="24" height="2" transform="translate(8 19)" fill="#95572b"/>
+      <path id="Pfad_26" data-name="Pfad 26" d="M33,18H7v4H33V18Z" fill="#95572b"/>
+    </g>
+  </g>
+</svg>

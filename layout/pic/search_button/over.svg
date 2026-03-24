@@ -1,0 +1,32 @@
+<svg id="over" xmlns="http://www.w3.org/2000/svg" width="58" height="53" viewBox="0 0 58 53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d6;
+      }
+
+      .cls-2 {
+        fill: #95572b;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <rect id="trenner_Kopie_30" data-name="trenner Kopie 30" class="cls-1" y="52" width="58" height="1"/>
+  <rect id="Rechteck_3167" data-name="Rechteck 3167" class="cls-2" width="58" height="52"/>
+  <path class="cls-3" d="M1160.05,305a9.047,9.047,0,1,1-9.05,9.047A9.045,9.045,0,0,1,1160.05,305Zm-0.02,2.812a6.219,6.219,0,1,1-6.22,6.219A6.217,6.217,0,0,1,1160.03,307.812Z" transform="translate(-1135 -291)"/>
+  <path id="Form_2" data-name="Form 2" class="cls-4" d="M1175,328.988l-9.09-9.087" transform="translate(-1135 -291)"/>
+</svg>

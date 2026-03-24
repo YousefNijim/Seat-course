@@ -1,0 +1,256 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+body, td, a, div, .p {
+    font-family: arial, sans-serif;
+}
+
+div, td {
+    color: #000000
+}
+
+a:link, .w, .w a:link {
+    color: #0000cc;
+}
+
+a:visited {
+    color: #551a8b;
+}
+
+a:active {
+    color: #ff0000;
+}
+
+.stage-top {
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 0;
+}
+
+.stage-bottom {
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    bottom: 0;
+}
+
+.stage-top-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.stage-bottom-left {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.stage-bottom-right {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.stage-left {
+    position: absolute;
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 0;
+}
+
+.stage-right {
+    position: absolute;
+    margin-top: auto;
+    margin-bottom: auto;
+    right: 0;
+}
+
+.stage-left-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+	background-color: blue;
+}
+
+.movieclip {
+    overflow: visible;
+    top: 0;
+    left: 0;
+}
+
+.child-container{
+    overflow: visible !important;
+    top: 0;
+    left: 0;
+}
+
+.click-handler-element{
+    overflow: visible !important;
+    top: 0;
+    left: 0;
+}
+
+.mask {
+    overflow: hidden !important;
+}
+
+.hint {
+    background-color: #ffe4b5;
+    border: 1px black solid;
+    padding: 0 2px 0 2px;
+    position: absolute;
+}
+
+.navigation-box-background {
+    background-color: #ffffff;
+	opacity: 1;
+	width: 100%;
+	height: 100%;
+    border-left: solid 6px #00B1EB;
+}
+
+.navigation-box-background-selected {
+    background-color: #222222;
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+}
+
+.navigation-box-label {
+    color: #222222;
+	font-size: 12px;
+}
+
+.navigation-box-label-over {
+	color: #222222;
+}
+
+.navigation-box-label-selected {
+    color: #ffffff;
+}
+
+.list-box {
+    border: 1px solid black;
+    overflow-y: auto !important;
+}
+
+.list-box-item {
+    font-size: 14px;
+    color: black;
+    padding: 2px 0 2px 5px;
+    text-align: left;
+}
+
+.list-box-item-selected {
+    color: #004A99;
+}
+
+.list-box-label {
+
+}
+
+.list-box-label-selected {
+    color: #00B1EB;
+    font-weight: bold;
+}
+
+.scroll {
+    overflow-y: scroll !important;
+}
+
+.gwt-SliderBar-shell .gwt-SliderBar-knob {
+    top: 0 !important;
+}
+
+.gwt-SliderBar-shell .gwt-SliderBar-line {
+    background-color: #dcdcdc !important;
+    border: 1px solid #999999 !important;
+    height: 4px !important;
+    top: 6pt !important;
+}
+
+.gwt-SliderBar-shell .gwt-SliderBar-tick {
+    background: none repeat scroll 0 0 black !important;
+    height: 6pt !important;
+    top: 0 !important;
+    width: 1px !important;
+}
+
+.gwt-TreeItem .gwt-Label {
+    color: black;
+    font-size: 24px;
+    margin-left: 5px;
+}
+
+.gwt-TreeItem .gwt-Label-over {
+    color: #004488;
+}
+
+.gwt-TreeItem .gwt-Label-selected {
+    font-weight: bold;  color: #004488;
+}
+.gwt-TreeItemContainer {
+    margin-left: 32px;
+}
+
+.mosaic-LayoutPanel {
+    padding: 0 !important;
+    overflow: auto !important;
+}
+
+.gwt-PopupPanel {
+    border: none !important;
+    padding: 0 !important;
+}
+
+.gwt-PopupPanelGlass {
+    background-color: #000;
+    opacity: 0.3;
+}
+
+body.gwt-RichTextArea-default {
+	font-family: arial; 
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}
+
+.results-table-item {
+    background-color: #ffffff;
+    border-left: solid 6px #00B1EB;
+    margin-bottom: 10px;
+    min-height: 40px;
+    width: 100%;
+}
+
+.results-table-label {
+    color: #222222;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.evo-Slider {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+    overflow: visible !important;
+}
+
+.evo-Slider-track {
+    overflow: visible !important;
+    display: inline-block;
+}
+
+.evo-Slider-thumb {
+    overflow: visible !important;
+    display: inline-block;
+}

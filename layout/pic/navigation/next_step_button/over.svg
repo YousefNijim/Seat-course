@@ -1,0 +1,23 @@
+<svg id="over" xmlns="http://www.w3.org/2000/svg" width="58" height="52" viewBox="0 0 58 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #95572b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Rechteck_3_Kopie_2" data-name="Rechteck 3 Kopie 2" class="cls-1" width="58" height="52"/>
+  <rect id="Rechteck_1207" data-name="Rechteck 1207" class="cls-2" x="19" y="17" width="3" height="19"/>
+  <path id="Form_1665" data-name="Form 1665" class="cls-3" d="M1162.74,241.631l13.78-7.128v-1.019l-13.78-8.147" transform="translate(-1135 -207)"/>
+</svg>

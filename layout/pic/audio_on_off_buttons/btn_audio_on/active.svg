@@ -1,0 +1,34 @@
+<svg id="active" xmlns="http://www.w3.org/2000/svg" width="58" height="53" viewBox="0 0 58 53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d6;
+      }
+
+      .cls-2 {
+        fill: #f8f8f8;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #95572b;
+      }
+
+      .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #95572b;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect id="trenner_Kopie_16" data-name="trenner Kopie 16" class="cls-1" y="52" width="58" height="1"/>
+  <rect id="Rechteck_3081" data-name="Rechteck 3081" class="cls-2" width="58" height="52"/>
+  <path id="Rechteck_896" data-name="Rechteck 896" class="cls-3" d="M16,22h4a0,0,0,0,1,0,0v9a0,0,0,0,1,0,0H16a2,2,0,0,1-2-2V24A2,2,0,0,1,16,22Z"/>
+  <path id="Rechteck_897" data-name="Rechteck 897" class="cls-4" d="M1154.23,154l8.77-9v27l-8.77-9v-9Z" transform="translate(-1135 -132)"/>
+  <path id="Form_5" data-name="Form 5" class="cls-5" d="M1172.37,145s14.95,12.375,0,27" transform="translate(-1135 -132)"/>
+  <path id="Form_5_Kopie" data-name="Form 5 Kopie" class="cls-5" d="M1169.37,151s8.62,6.708,0,16" transform="translate(-1135 -132)"/>
+</svg>

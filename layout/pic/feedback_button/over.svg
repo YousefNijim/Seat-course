@@ -1,0 +1,28 @@
+<svg id="over" xmlns="http://www.w3.org/2000/svg" width="58" height="53" viewBox="0 0 58 53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d6;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #95572b;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="trenner_Kopie_37" data-name="trenner Kopie 37" class="cls-1" y="52" width="58" height="1"/>
+  <rect id="Rechteck_3167_Kopie_2" data-name="Rechteck 3167 Kopie 2" class="cls-2" width="58" height="52"/>
+  <path id="Form_3405" data-name="Form 3405" class="cls-3" d="M1154,431h9l-9,10V431Z" transform="translate(-1135 -397)"/>
+  <rect id="Rechteck_3404" data-name="Rechteck 3404" class="cls-4" x="15" y="15" width="29" height="21"/>
+  <path id="star_Kopie_20" data-name="star Kopie 20" class="cls-5" d="M1155.51,419.005l1.16,1.854,2.34,0.434-1.59,1.538,0.25,2.13-2.16-.868-2.17.907,0.29-2.13-1.62-1.577,2.33-.434Z" transform="translate(-1135 -397)"/>
+  <path id="star_Kopie_21" data-name="star Kopie 21" class="cls-5" d="M1164.51,419.005l1.16,1.854,2.34,0.434-1.59,1.538,0.25,2.13-2.16-.868-2.17.907,0.29-2.13-1.62-1.577,2.33-.434Z" transform="translate(-1135 -397)"/>
+  <path id="star_Kopie_22" data-name="star Kopie 22" class="cls-5" d="M1173.51,419.005l1.16,1.854,2.34,0.434-1.59,1.538,0.25,2.13-2.16-.868-2.17.907,0.29-2.13-1.62-1.577,2.33-.434Z" transform="translate(-1135 -397)"/>
+</svg>

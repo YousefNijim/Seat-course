@@ -1,0 +1,1 @@
+onLoadJsAsXml('xml/server.xml', "<server type=\"object\">\n\t<actions type=\"object\">\n\t\t<getClasses><![CDATA[xml\/ELP_Classes.xml]]><\/getClasses>\n\t\t<getDialogs><![CDATA[xml\/elp_dialogs_0x1.xml]]><\/getDialogs>\n\t\t<getTemplates><![CDATA[xml\/ELP_Templates.xml]]><\/getTemplates>\n\t\t<getProject><![CDATA[xml\/ELP_Project.xml]]><\/getProject>\n\t<\/actions>\n<\/server>");

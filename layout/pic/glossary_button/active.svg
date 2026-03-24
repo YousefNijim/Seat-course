@@ -1,0 +1,21 @@
+<svg id="active" xmlns="http://www.w3.org/2000/svg" width="58" height="53" viewBox="0 0 58 53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d6;
+      }
+
+      .cls-2 {
+        fill: #f8f8f8;
+      }
+
+      .cls-3 {
+        fill: #95572b;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="trenner_Kopie_20" data-name="trenner Kopie 20" class="cls-1" y="52" width="58" height="1"/>
+  <rect id="Rechteck_3133" data-name="Rechteck 3133" class="cls-2" width="58" height="52"/>
+  <path id="A-Z" class="cls-3" d="M1158.61,217.116h3.7l-4.3-11.453h-3.85l-4.3,11.453h3.61l0.56-1.891h4.01Zm-3.82-4.367,1.25-4.117,1.26,4.117h-2.51Zm7.82,1.422h4.62V211.71h-4.62v2.461Zm5.85-6.063h5.74l-6.35,6.633v2.375h10.84v-2.461h-6.65l6.42-6.7v-2.289h-10v2.445Z" transform="translate(-1135 -185)"/>
+</svg>
